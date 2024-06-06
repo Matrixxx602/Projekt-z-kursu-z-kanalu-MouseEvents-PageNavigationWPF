@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fix1RxzrST9EvfY6ENFQyKWY6keDyK4yXQCHt31WwpouFuFb/e970DLqNSh2sBtzAvmZCUtEc1hyhctgNWytnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nielot\\source\\repos\\SimpleNavigation\\SimpleNavigation\\SimpleNavigation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nielot\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
